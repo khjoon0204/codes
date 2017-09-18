@@ -3,7 +3,7 @@
 ## 문제1
 
 
-'''
+```
 
 
 import java.util.ArrayList;
@@ -102,10 +102,10 @@ class Solution {
 	}
 
 }
-'''
+```
 
 ## 문제2
-'''
+```
 
 import java.util.ArrayList;
 
@@ -199,4 +199,4 @@ public class CalcFarmArea {
 }
 
 
-'''
+```
